@@ -1,4 +1,4 @@
-nothing to see here, check out [my website](https://thewildchip.github.io/) for more
+.
 
 <!--
 **thewildchip/thewildchip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
