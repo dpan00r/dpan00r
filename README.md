@@ -1,6 +1,6 @@
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="banner_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="banner_light.svg">
     <img alt="Project Banner" src="banner-light.svg" width="400">
   </picture>
 <!--
