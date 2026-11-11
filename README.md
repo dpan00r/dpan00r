@@ -1,7 +1,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="banner_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="banner_light.svg">
-    <img alt="Project Banner" src="banner-light.svg" width="400">
+    <img alt="Project Banner" src="banner-light.svg" width="250">
   </picture>
 <!--
 **thewildchip/thewildchip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
