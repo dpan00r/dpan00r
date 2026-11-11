@@ -1,4 +1,4 @@
-[![hey there: click here to find out more about daniel](https://ascii.rest/banner/hey%20there.svg?color=703bfa&effect=type&font=slim&shadow=ascii&tagline=click%20here%20to%20find%20out%20more%20about%20daniel&size=s)](example.com)
+[![hey there: click here to find out more about daniel](https://ascii.rest/banner/hey%20there.svg?color=703bfa&effect=type&font=slim&shadow=ascii&tagline=click%20here%20to%20find%20out%20more%20about%20daniel&size=s)](https://example.com/)
 
 <!--
 **thewildchip/thewildchip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
