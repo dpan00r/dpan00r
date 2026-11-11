@@ -2,9 +2,10 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="banner_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="banner_light.svg">
-    <img alt="Project Banner" src="banner-light.svg" width="250">
+    <img alt="Project Banner" src="banner-light.svg" width="350">
   </picture>
 </a>
+
 
 Made with [ascii.rest](https://ascii.rest), an amazing open source tool by [@Shubam](https://github.com/Shubam).
 
