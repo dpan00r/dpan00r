@@ -1,5 +1,8 @@
-[![hey there: click here to find out more about daniel](https://ascii.rest/banner/hey%20there.svg?color=703bfa&effect=type&font=slim&shadow=ascii&tagline=click%20here%20to%20find%20out%20more%20about%20daniel&size=s)](https://example.com/)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner_light.svg">
+  <img alt="Project Banner" src="banner-light.svg" width="100%">
+</picture>
 <!--
 **thewildchip/thewildchip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
