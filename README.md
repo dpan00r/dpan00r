@@ -5,7 +5,8 @@
     <img alt="Project Banner" src="banner-light.svg" width="250">
   </picture>
 </a>
-Special thanks to [@Shubam](https://github.com/Shubam) for creating [ascii.rest](https://ascii.rest).
+
+Made with [ascii.rest](https://ascii.rest) by [@Shubam](https://github.com/Shubam).
 
 <!--
 **thewildchip/thewildchip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
